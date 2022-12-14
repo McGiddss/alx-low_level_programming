@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Jack_bauer - function
+ * jack_bauer - function
  *
  * Return: 0
  */
