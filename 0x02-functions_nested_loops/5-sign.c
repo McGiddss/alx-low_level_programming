@@ -3,7 +3,7 @@
 /**
  * print_sign - Function that prints
  *
- * @c: a character
+ * @n: character
  * Return: 1 if n > 0, 0 if == 0
  */
 
