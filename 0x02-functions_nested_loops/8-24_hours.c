@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Jack_bauer - function 
+ * Jack_bauer - function
  *
  * Return: 0
  */
@@ -10,6 +10,7 @@ void jack_bauer(void)
 {
 	int hours;
 	int minutes;
+
 	for (hours = 0; hours <= 23; hours++)
 	{
 		for (minutes = 0; minutes <= 59; minutes++)
