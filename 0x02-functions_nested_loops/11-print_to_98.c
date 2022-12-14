@@ -6,7 +6,7 @@
  *
  * @n: starting integer
  *
- * Description: prints all natural numbers from 
+ * Description: prints all natural numbers from
  *
  * Return: void
  */
