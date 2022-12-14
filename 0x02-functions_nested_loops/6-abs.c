@@ -3,7 +3,7 @@
 
 /**
  * _abs -> Function that computes
- *
+ *@y: character
  * Return: y if u > 0, 0 if y == 0
  */
 
